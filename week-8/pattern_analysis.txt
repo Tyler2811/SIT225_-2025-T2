@@ -1,0 +1,25 @@
+Accelerometer Pattern Analysis Report
+====================================
+
+Total samples: 1000
+Time range: 2025-09-12 19:11:21.842714 to 2025-09-12 20:49:20.653885
+
+X-axis Statistics:
+  Mean: -0.236, Std: 1.919
+  Min: -16.927, Max: 19.474
+  Peaks detected: 49
+
+Y-axis Statistics:
+  Mean: 0.733, Std: 1.842
+  Min: -1.444, Max: 9.321
+  Peaks detected: 7
+
+Z-axis Statistics:
+  Mean: 6.521, Std: 6.874
+  Min: -9.665, Max: 9.960
+  Peaks detected: 1
+
+Pattern Analysis:
+
+The repeating patterns indicate deliberate smartphone movements
+with consistent timing, suggesting specific gestures or activities.
