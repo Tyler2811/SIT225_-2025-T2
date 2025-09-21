@@ -1,0 +1,11 @@
+Activity Data Analysis Summary
+========================================
+
+Average X: 0.100
+Average Y: 2.879
+Average Z: 4.686
+
+Activity Counts:
+  No Activity (0): 181
+  Waving (1): 0
+  Shaking (2): 0
